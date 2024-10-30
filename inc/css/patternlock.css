@@ -1,0 +1,11 @@
+.mk-cust-class {
+  text-align: center !important;
+  top: 0 !important;
+  max-width: 390px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+.mk-content { left:0 !important;}
+.mk-media-frame-title { position:relative !important; text-align:center!important; left:0 !important;}
+.lock_screen .ab-item { background:#F00 !important; color:#fff !important;}
+.hightlight { color: #F00; font-weight: bold;}
